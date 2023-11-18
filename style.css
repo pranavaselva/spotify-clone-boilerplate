@@ -1,0 +1,352 @@
+body{
+background-color: rgb(40, 39, 39);
+padding: 0px;
+margin: 0px;
+font-style: sans;
+}
+
+.nav1{
+    background-color: black;
+    color: white;
+    width: 300px;
+    position: absolute;
+    
+}
+
+.spot{
+    height: 40px; 
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.home1{
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    margin-top: 15px;
+    margin-left:10px;
+    margin-right: 10px;
+     border-radius: 3px;
+     background-color: rgb(94, 94, 94); 
+}
+
+.home2{
+    height: 30px;  
+    margin-top: 5px;
+}
+
+.home3{
+    margin-top: 12px;
+    margin-left:20px;
+}
+
+.search1{
+    padding: 0px;
+    list-style: none; 
+    display: flex;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.search2{
+    height: 30px;
+}
+
+.search3{
+    margin-top: 9px;
+    margin-left: 15px;
+}
+
+.library1{
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    margin-left:20px ;
+    margin-bottom: 15px;
+}
+
+.library2{
+    height: 25px;
+}
+
+.library3{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.create1{
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    margin-left: 15px;
+    margin-top: 60px;
+}
+
+.create2{
+    height: 25px;
+}
+
+.create3{
+    margin-top: 5px;
+    margin-left:15px;
+}
+
+.like1{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    margin-left:15px ;
+}
+
+.like2{
+    height: 25px;
+}
+
+.like3{
+    margin-left: 15px;
+}
+
+.your1{
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    margin-left: 15px;
+}
+
+.your2{
+    height: 25px;
+}
+
+.your3{
+    margin-left: 15px;
+}
+
+.list{
+    list-style: none;
+}
+
+.app1{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.app2{
+    height: 25px;
+}
+
+.app3{
+    margin-top: 5px;
+    margin-left:15px ;
+}
+
+
+.top1{
+    list-style: none;
+    display: flex;
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 15px;
+}
+
+.top2{
+    height: 30px;
+}
+
+.top3{
+  margin-left: 1000px;
+}
+
+.head{
+    padding: 0px;
+    width:210px;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 340px;
+    color: white;
+}
+
+.heart{
+    list-style: none;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 150px;
+    display: flex; 
+}
+
+.heart3{
+    list-style: none;
+    color: white;  
+    height: 100px;
+    width: 200px;
+    background-color: grey;
+  
+}
+
+.net1{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 148px;
+    align-items: center;
+}
+
+.net3{
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: grey;
+}
+
+.kda1{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 148px;
+   align-items: center;
+}
+
+.kda3{
+    height: 100px;
+    width: 200px;
+    margin-bottom: 3px;
+    color: white;
+    background-color: grey;
+}
+
+.song1{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 148px;
+}
+
+.song3{
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: grey;
+}
+
+.mix1{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 300px;
+}
+
+.mix3{
+    color: white;
+    height: 100px;
+    width: 200px;
+    background-color: grey;
+}
+
+.head2{
+    color: white;
+    position: absolute;
+    margin-left:340px ;
+    margin-top: 450px;
+}
+
+
+.playlist1{
+    display: flex;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 300px;
+}
+
+.food1{
+    list-style: none;
+    color: white;
+}
+
+.med1{
+    list-style: none;
+   color: white;
+}
+
+.act1{
+    list-style: none;
+    color: white;
+}
+
+.alex1{
+    list-style: none;
+    color: white;
+}
+
+.ma1{
+    list-style: none;
+    color: white;
+}
+
+.db1{
+    list-style: none;
+    color: white;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    margin-top: 600px ;
+}
+
+.dream1{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-top:200px ;
+    width:350px;
+
+}
+.dream2{
+    height: 100px;
+}
+
+.dream3{
+    color: white;
+    margin-left: 30px;
+
+}
+
+.dream4{
+ height: 30px;
+ margin-left: 50px;
+}
+
+.option1{
+    list-style: none;
+    display: flex;
+}
+
+.option2{
+    height: 60px;
+   margin-left: 500px;
+   position: absolute;
+   margin-bottom: 140px;
+}
+
+.option3{
+    height: 30px;
+    position: absolute;
+    margin-left:1400px ;
+}
+
+.on{
+    position: absolute;
+    margin-top: 990px;
+
+align-items: center;
+background-color: rgb(7, 169, 7);
+height: 30px;
+width: 1890px;
+}
